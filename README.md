@@ -1,2 +1,2 @@
 # hellow
-for javaproject
+for javaproject 练习JAVA
